@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir1 on the website title shown on the tab</title>
+    <link>https://ewroiad.github.io/dir1/</link>
+    <description>Recent content in Dir1 on the website title shown on the tab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 22:47:06 +0800</lastBuildDate><atom:link href="https://ewroiad.github.io/dir1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D</title>
+      <link>https://ewroiad.github.io/dir1/d/</link>
+      <pubDate>Sun, 20 Jun 2021 23:01:39 +0800</pubDate>
+      
+      <guid>https://ewroiad.github.io/dir1/d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

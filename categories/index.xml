@@ -5,6 +5,16 @@
     <link>https://ewroiad.github.io/categories/</link>
     <description>Recent content in Categories on the website title shown on the tab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ewroiad.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 20:27:58 +0800</lastBuildDate><atom:link href="https://ewroiad.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cat1</title>
+      <link>https://ewroiad.github.io/categories/cat1/</link>
+      <pubDate>Sun, 20 Jun 2021 20:27:58 +0800</pubDate>
+      
+      <guid>https://ewroiad.github.io/categories/cat1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
