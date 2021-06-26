@@ -13,7 +13,9 @@
         
         <guid>https://example.com/p/mypost/</guid>
         <description>&lt;h1 id=&#34;hello-world&#34;&gt;hello world&lt;/h1&gt;
-&lt;p&gt;&lt;figure style=&#34;flex-grow: 100; flex-basis: 240px&#34;&gt;
+&lt;h2 id=&#34;你好&#34;&gt;你好&lt;/h2&gt;
+&lt;p&gt;haoyunlai
+&lt;figure style=&#34;flex-grow: 100; flex-basis: 240px&#34;&gt;
 		&lt;a href=&#34;https://example.com/p/mypost/typora-icon.png&#34; data-size=&#34;512x512&#34;&gt;&lt;img src=&#34;https://example.com/p/mypost/typora-icon.png&#34;
 				srcset=&#34;https://example.com/p/mypost/typora-icon_hufab3cb8b489ffbe9bed4e10d80203e11_59444_480x0_resize_box_2.png 480w, https://example.com/p/mypost/typora-icon_hufab3cb8b489ffbe9bed4e10d80203e11_59444_1024x0_resize_box_2.png 1024w&#34;
 				width=&#34;512&#34;
